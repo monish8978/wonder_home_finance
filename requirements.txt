@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pymongo
+redis
+celery
+requests
+httpx
+reportlab
+pdfkit
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+loguru
+python-dotenv
+motor

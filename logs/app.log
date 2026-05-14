@@ -1,0 +1,135 @@
+2026-05-13 11:10:22.412 | INFO     | app.main:startup_db_client:42 - Starting up MongoDB client...
+2026-05-13 11:11:35.409 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:11:36.815 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (1.4129s)
+2026-05-13 11:11:58.572 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'English', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:11:58.658 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.0866s)
+2026-05-13 11:12:06.940 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': '7533941271', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:12:07.834 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.8944s)
+2026-05-13 11:12:27.491 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': '118798', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:12:28.081 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.5901s)
+2026-05-13 11:12:44.095 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Apply For New Loan', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:12:44.289 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1948s)
+2026-05-13 11:12:52.514 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Proceed', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:12:52.686 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1722s)
+2026-05-13 11:12:59.930 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Monish', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:13:00.010 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.0799s)
+2026-05-13 11:13:29.445 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Monish', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:13:29.559 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1152s)
+2026-05-13 11:18:03.655 | INFO     | app.main:shutdown_db_client:47 - Shutting down MongoDB client...
+2026-05-13 11:18:29.289 | INFO     | app.main:startup_db_client:42 - Starting up MongoDB client...
+2026-05-13 11:18:31.782 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:18:33.069 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (1.2930s)
+2026-05-13 11:18:44.091 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Apply For New Loan', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:18:44.280 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1899s)
+2026-05-13 11:18:51.546 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Proceed', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:18:51.721 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1754s)
+2026-05-13 11:18:57.574 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Monish', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:18:57.732 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1581s)
+2026-05-13 11:20:20.159 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Home Purchase Loan', 'extraParms': '{"identifier": "user123"}'}
+2026-05-13 11:20:20.552 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.3935s)
+2026-05-13 11:24:07.841 | INFO     | app.main:shutdown_db_client:47 - Shutting down MongoDB client...
+2026-05-13 11:24:24.906 | INFO     | app.main:startup_db_client:42 - Starting up MongoDB client...
+2026-05-13 11:24:31.542 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:24:34.349 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (2.8110s)
+2026-05-13 11:24:45.385 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Apply For New Loan', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:24:45.817 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.4329s)
+2026-05-13 11:24:52.602 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Proceed', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:24:52.903 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.3009s)
+2026-05-13 11:25:00.969 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Monish', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:25:01.556 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.5875s)
+2026-05-13 11:25:12.224 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Home Purchase Loan', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:25:13.022 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.7994s)
+2026-05-13 11:25:56.896 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:25:57.096 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.2001s)
+2026-05-13 11:26:05.264 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Existing Customer', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:26:08.199 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (2.9358s)
+2026-05-13 11:28:53.078 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:28:53.222 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1448s)
+2026-05-13 11:29:02.750 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Branch Locator', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:29:02.848 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.0984s)
+2026-05-13 11:31:41.874 | INFO     | app.main:shutdown_db_client:47 - Shutting down MongoDB client...
+2026-05-13 11:32:00.303 | INFO     | app.main:startup_db_client:42 - Starting up MongoDB client...
+2026-05-13 11:32:13.304 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:32:14.626 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (1.3261s)
+2026-05-13 11:32:28.707 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Branch Locator', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:32:29.173 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.4666s)
+2026-05-13 11:33:03.207 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Customer Support', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:33:03.392 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1856s)
+2026-05-13 11:35:44.176 | INFO     | app.main:shutdown_db_client:47 - Shutting down MongoDB client...
+2026-05-13 11:38:43.805 | INFO     | app.main:startup_db_client:42 - Starting up MongoDB client...
+2026-05-13 11:38:46.895 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:38:48.591 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (1.7023s)
+2026-05-13 11:38:58.424 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Calculators', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:38:58.833 | ERROR    | app.api.v1.endpoints.chat:whatsapp_webhook:35 - Webhook processing error: cannot import name 'send_whatsapp_document_task' from partially initialized module 'app.tasks.whatsapp_tasks' (most likely due to a circular import) (/app/app/tasks/whatsapp_tasks.py)
+2026-05-13 11:38:58.834 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 400 (0.4102s)
+2026-05-13 11:40:21.788 | INFO     | app.main:shutdown_db_client:47 - Shutting down MongoDB client...
+2026-05-13 11:40:34.844 | INFO     | app.main:startup_db_client:42 - Starting up MongoDB client...
+2026-05-13 11:40:36.246 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:40:37.236 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.9960s)
+2026-05-13 11:40:48.076 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Calculators', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:40:48.458 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.3822s)
+2026-05-13 11:41:12.805 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Customer Support', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:41:12.967 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1629s)
+2026-05-13 11:41:31.031 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Yes', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:41:31.161 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1303s)
+2026-05-13 11:41:43.997 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'FCL / SOA / LOD Request', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:41:44.105 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1083s)
+2026-05-13 11:41:56.992 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:41:57.182 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1912s)
+2026-05-13 11:42:06.111 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Branch Locator', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:42:06.231 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1211s)
+2026-05-13 11:42:45.091 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Customer Support', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:42:45.208 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1171s)
+2026-05-13 11:42:53.036 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:42:53.243 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.2073s)
+2026-05-13 11:43:00.465 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Existing Customer', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:43:02.337 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (1.8716s)
+2026-05-13 11:44:13.290 | INFO     | app.main:shutdown_db_client:47 - Shutting down MongoDB client...
+2026-05-13 11:44:26.136 | INFO     | app.main:startup_db_client:42 - Starting up MongoDB client...
+2026-05-13 11:44:32.290 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:44:33.781 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (1.4948s)
+2026-05-13 11:44:51.307 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Existing Customer', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:44:53.340 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (2.0339s)
+2026-05-13 11:47:40.929 | INFO     | app.main:shutdown_db_client:47 - Shutting down MongoDB client...
+2026-05-13 11:47:54.647 | INFO     | app.main:startup_db_client:42 - Starting up MongoDB client...
+2026-05-13 11:47:57.950 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Existing Customer', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:48:01.655 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (3.7093s)
+2026-05-13 11:48:20.219 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Install WHFL App', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:48:20.570 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.3522s)
+2026-05-13 11:48:36.441 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Back To Menu', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:48:36.646 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.2053s)
+2026-05-13 11:50:22.966 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Existing Customer', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:50:23.034 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.0694s)
+2026-05-13 11:50:51.398 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': '23060', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:50:51.551 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1534s)
+2026-05-13 11:51:16.402 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Documents', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:51:16.591 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1896s)
+2026-05-13 11:51:38.150 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Back To Menu', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:51:38.459 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.3095s)
+2026-05-13 11:52:01.306 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:52:01.572 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.2670s)
+2026-05-13 11:52:15.967 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Existing Customer', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 11:52:16.114 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.1483s)
+2026-05-13 12:53:28.618 | INFO     | app.main:shutdown_db_client:47 - Shutting down MongoDB client...
+2026-05-13 12:53:43.381 | INFO     | app.main:startup_db_client:42 - Starting up MongoDB client...
+2026-05-13 12:54:07.238 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 12:54:09.817 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (2.5815s)
+2026-05-13 12:54:22.597 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Existing Customer', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 12:54:23.937 | ERROR    | app.services.loan_service:get_oauth_token:38 - Failed to get OAuth token: Client error '401 Unauthorized' for url 'https://uat-api.wonderhfl.com/gateway-service/authServices/oauth/token'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-05-13 12:54:23.939 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (1.3423s)
+2026-05-13 13:17:55.696 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Existing Customer', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 13:17:56.558 | ERROR    | app.services.loan_service:get_oauth_token:38 - Failed to get OAuth token: Client error '401 Unauthorized' for url 'https://uat-api.wonderhfl.com/gateway-service/authServices/oauth/token'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-05-13 13:17:56.562 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.8708s)
+2026-05-13 13:18:02.460 | INFO     | app.main:shutdown_db_client:47 - Shutting down MongoDB client...
+2026-05-13 13:18:17.453 | INFO     | app.main:startup_db_client:42 - Starting up MongoDB client...
+2026-05-13 13:18:18.916 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Existing Customer', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-13 13:18:21.998 | ERROR    | app.services.loan_service:get_oauth_token:38 - Failed to get OAuth token: Client error '401 Unauthorized' for url 'https://uat-api.wonderhfl.com/gateway-service/authServices/oauth/token'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-05-13 13:18:22.001 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (3.0901s)
+2026-05-14 07:39:02.083 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Existing Customer', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-14 07:39:03.142 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (1.0732s)
+2026-05-14 09:14:58.178 | INFO     | app.api.v1.endpoints.chat:whatsapp_webhook:12 - Received webhook: {'wa_numer': '919876543210', 'message': 'Hi', 'extraParms': '{"source":"other","csid":"2591778664445684","identifier":"917533941271"}'}
+2026-05-14 09:14:59.103 | INFO     | app.main:add_process_time_header:31 - POST /api/v1/chat/webhook - 200 (0.9326s)
+2026-05-14 09:16:48.743 | INFO     | app.main:shutdown_db_client:47 - Shutting down MongoDB client...

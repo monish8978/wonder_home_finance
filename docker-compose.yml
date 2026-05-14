@@ -1,0 +1,39 @@
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: wonder_home_api
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    depends_on:
+      - redis
+    volumes:
+      - ./logs:/app/logs
+      - ./documents:/Czentrix/apps/wonder_homes_loan_bot/documents
+
+  worker:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: wonder_home_worker
+    command: celery -A app.tasks.celery_app worker --loglevel=info
+    env_file:
+      - .env
+    depends_on:
+      - redis
+    volumes:
+      - ./logs:/app/logs
+      - ./documents:/Czentrix/apps/wonder_homes_loan_bot/documents
+
+  redis:
+    image: redis:7-alpine
+    container_name: wonder_home_redis
+    ports:
+      - "6379:6379"
+
+volumes:
+  documents:
